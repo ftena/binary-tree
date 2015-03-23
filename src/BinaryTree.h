@@ -133,7 +133,6 @@ private:
 	}
 
 private:
-
 	Node* root_;
 };
 
