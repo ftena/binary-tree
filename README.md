@@ -1,7 +1,7 @@
 # binary-tree
 Binary tree in C++.
 
-Steps to compile:
+Steps to compile...
 
 ```
 $ cd src
